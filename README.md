@@ -1,2 +1,2 @@
 # culia
-cute things in julia
+Cute things in Julia I likeEnjoy
